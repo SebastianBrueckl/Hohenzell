@@ -47,12 +47,25 @@ section {
     border-left: 6px solid #d29b33;
 }
 
+.reise {
+    border-left: 6px solid #6c9a55;
+}
+
+.reise li {
+    color: #394b32;
+}
+
 li {
     margin: 8px 0;
 }
 
 .details {
     background: #e6f3df;
+}
+
+.bilder img {
+    margin-top: 12px;
+    max-height: 260px;
 }
 
 footer {
